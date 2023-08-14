@@ -11,7 +11,6 @@ This repository contains Arduino code for a project that involves using an LDR (
 - [Code Explanation](#code-explanation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
